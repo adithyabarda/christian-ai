@@ -27,7 +27,7 @@
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/christian-ai-assistant.git
+git clone https://github.com/adithyabarda/christian-ai-assistant.git
 cd christian-ai-assistant
 ```
 
